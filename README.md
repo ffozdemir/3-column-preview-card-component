@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/ffozdemir/3-column-preview-card-component)
-- [Live Site URL]()
+- [Live Site URL](https://snazzy-tartufo-39172e.netlify.app)
 
 ## My process
 
